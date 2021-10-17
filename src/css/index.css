@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body-index {
+    background-color: #FF5722;
+}
+
+.cronometro {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+    text-decoration: solid;
+    background-color: #FFC107;
+    padding: 10px;
+    height: 500px;
+    border: none;
+    border-radius: 10px;
+}
+
+.cronometro div {
+    color: #FDFEFE;
+}
+
+.start {
+    background-color: #52BE80;
+    color: #FDFEFE;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.pause {
+    background-color: #CB4335;
+    color: #FDFEFE;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.reset {
+    background-color: #2E86C1;
+    color: #FDFEFE;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
